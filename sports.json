@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/330px-CNN_Logo_%282014%29.svg.png",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium414"
+  },
+  {
+    "id": "lifetime_movie_network",
+    "name": "Lifetime Movie Network",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/375px-LMN_logo_2019.svg.png",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium389"
+  },
+  {
+    "id": "sky_sports_premier_league",
+    "name": "Sky Sports Premier League",
+    "logoUrl": "https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium130"
+  }
+]
