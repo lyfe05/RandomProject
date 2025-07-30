@@ -10,5 +10,11 @@
     "name": "Sky Sports Premier League",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky_Sports_Premier_League.png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium130"
+  },
+  {
+    "id": "astro_grandstand",
+    "name": "Astro Grandstand",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Grandstand_(2024).png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium123"
   }
 ]
