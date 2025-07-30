@@ -3,7 +3,32 @@
     "id": "premier_league",
     "name": "Premier League",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Premier_League_Logo.svg.png?raw=true",
-    "channels": []
+    "channels": [
+      {
+        "id": "supersport_premier_league",
+        "name": "Supersport Premier League",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_premier-league.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium414"
+      },
+      {
+        "id": "sky_sports_premier_league",
+        "name": "Sky Sports Premier League",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky_Sports_Premier_League.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium130"
+      },
+      {
+        "id": "astro_premier_league_1",
+        "name": "Astro Premier League 1",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Premier_League_1_(2024).png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium125"
+      },
+      {
+        "id": "astro_premier_league_2",
+        "name": "Astro Premier League 2",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Premier_League_2_(2024).png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium126"
+      }
+    ]
   },
   {
     "id": "laliga",
