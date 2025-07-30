@@ -16,5 +16,11 @@
     "name": "Astro Grandstand",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Grandstand_(2024).png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium123"
+  },
+  {
+    "id": "astro_football",
+    "name": "Astro Football",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Football_(2024).png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium124"
   }
 ]
