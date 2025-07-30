@@ -22,5 +22,11 @@
     "name": "Astro Football",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Football_(2024).png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium124"
+  },
+  {
+    "id": "astro_premier_league_1",
+    "name": "Astro Premier League 1",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Premier_League_1_(2024).png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium125"
   }
 ]
