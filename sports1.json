@@ -70,5 +70,17 @@
     "name": "TNT Sports 4",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt-sports-4.png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium34"
+  },
+  {
+    "id": "sky_sports_football",
+    "name": "Sky Sports Football",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky-sports-football.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium35"
+  },
+  {
+    "id": "sky_sports_action",
+    "name": "Sky Sports Action",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky-sports-main-action.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium37"
   }
 ]
