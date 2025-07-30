@@ -70,5 +70,65 @@
     "name": "TNT Sports 4",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt-sports-4-uk.png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium34"
+  },
+  {
+    "id": "sky_sports_football",
+    "name": "Sky Sports Football",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky-sports-football.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium35"
+  },
+  {
+    "id": "sky_sports_action",
+    "name": "Sky Sports Action",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky-sports-main-action.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium37"
+  },
+  {
+    "id": "sky_sports_main_event",
+    "name": "Sky Sports Main Event",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky-sports-main-event.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium38"
+  },
+  {
+    "id": "sky_sports_mix",
+    "name": "Sky Sports Mix",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky-sports-main-mix.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium449"
+  },
+  {
+    "id": "sky_sports_cricket",
+    "name": "Sky Sports Cricket",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sky-sports-cricket.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium65"
+  },
+  {
+    "id": "sky_sports_golf",
+    "name": "Sky Sports Golf",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sky-sports-golf.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium70"
+  },
+  {
+    "id": "sky_sports_news",
+    "name": "Sky Sports News",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sky-sports-news.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium366"
+  },
+  {
+    "id": "sky_sports_racing",
+    "name": "Sky Sports Racing",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sky-sports-racing.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium554"
+  },
+  {
+    "id": "sky_sports_tennis",
+    "name": "Sky Sports tennis",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sky-sports-tennis.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium46"
+  },
+  {
+    "id": "sky_sports_f1",
+    "name": "Sky Sports F1",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sky_sports_f1.jpg?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium60"
   }
 ]
