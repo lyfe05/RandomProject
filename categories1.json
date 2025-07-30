@@ -47,5 +47,11 @@
     "name": "DStv",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/DStv_2023.png?raw=true",
     "channels": []
+  },
+  {
+    "id": "tnt_sports",
+    "name": "TNT Sports",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
+    "channels": []
   }
 ]
