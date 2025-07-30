@@ -53,5 +53,17 @@
     "name": "TNT Sports",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
     "channels": []
+  },
+  {
+    "id": "sky_sports",
+    "name": "Sky Sports",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/1423884_skysportslogoround_648813.jpg?raw=true",
+    "channels": []
+  },
+  {
+    "id": "astro_sports",
+    "name": "Astro Sports",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/astro-supersport-television-logo-astro-malaysia-holdings-png-favpng-agPtE5q35MRV6fCQRMK4beCwX.jpg?raw=true",
+    "channels": []
   }
 ]
