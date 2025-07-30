@@ -130,5 +130,11 @@
     "name": "Sky Sports F1",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sky_sports_f1.jpg?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium"
+  },
+  {
+    "id": "mu_tv",
+    "name": "MU TV",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Manchester_United_FC_crest.svg.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium377"
   }
 ]
