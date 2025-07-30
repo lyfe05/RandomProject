@@ -35,5 +35,17 @@
     "name": "Laliga",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/LaLiga_logo_2023.svg.png?raw=true",
     "channels": []
+  },
+  {
+    "id": "supersport",
+    "name": "Supersport",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/supersport.png?raw=true",
+    "channels": []
+  },
+  {
+    "id": "dstv",
+    "name": "DStv",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/DStv_2023.png?raw=true",
+    "channels": []
   }
 ]
