@@ -34,5 +34,17 @@
     "name": "Astro Premier League 2",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Premier_League_1_(2024).png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium126"
+  },
+  {
+    "id": "supersport_laliga",
+    "name": "Supersport Laliga",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_laliga.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium416"
+  },
+  {
+    "id": "supersport_rugby",
+    "name": "Supersport Rugby",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/wwBY5Gh.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium421"
   }
 ]
