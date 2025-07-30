@@ -1,1 +1,8 @@
-
+[
+  {
+    "id": "bbc_one",
+    "name": "BBC One",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/BBC_One_logo_2021.svg.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium356"
+  }
+]
