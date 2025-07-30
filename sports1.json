@@ -1,20 +1,14 @@
 [
   {
-    "id": "cnn",
-    "name": "CNN",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/330px-CNN_Logo_%282014%29.svg.png",
+    "id": "supersport_premier_league",
+    "name": "Supersport Premier League",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_premier-league.png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium414"
-  },
-  {
-    "id": "lifetime_movie_network",
-    "name": "Lifetime Movie Network",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/375px-LMN_logo_2019.svg.png",
-    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium389"
   },
   {
     "id": "sky_sports_premier_league",
     "name": "Sky Sports Premier League",
-    "logoUrl": "https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky_Sports_Premier_League.png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium130"
   }
 ]
