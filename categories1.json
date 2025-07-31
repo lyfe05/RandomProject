@@ -40,7 +40,26 @@
     "id": "supersport",
     "name": "Supersport",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/supersport.png?raw=true",
-    "channels": []
+    "channels": [
+      {
+        "id": "supersport_premier_league",
+        "name": "Supersport Premier League",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_premier-league.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium414"
+      },
+      {
+        "id": "supersport_laliga",
+        "name": "Supersport Laliga",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_laliga.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium416"
+      },
+      {
+        "id": "supersport_rugby",
+        "name": "Supersport Rugby",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-rugby.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium421"
+      }
+    ]
   },
   {
     "id": "dstv",
