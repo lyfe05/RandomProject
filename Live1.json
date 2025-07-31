@@ -1,1 +1,28 @@
-
+[
+  {
+    "matchId": "test_team_a_vs_test_team_b_20250802",
+    "startDate": "2025-08-02",
+    "startTime": "16:00",
+    "teams": {
+      "left": {
+        "id": "test_team_a",
+        "name": "Test team a",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/1423884_skysportslogoround_648813.jpg?raw=true"
+      },
+      "right": {
+        "id": "test_team_b",
+        "name": "Test team b",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/1423884_skysportslogoround_648813.jpg?raw=true"
+      }
+    },
+    "tournament": "Test tournament",
+    "venue": "Test",
+    "streams": [
+      {
+        "title": "Sky Sports Tennis",
+        "quality": "HD",
+        "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium46"
+      }
+    ]
+  }
+]
