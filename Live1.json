@@ -19,6 +19,21 @@
     "venue": "Test",
     "streams": [
       {
+        "title": "Astro Football",
+        "quality": "HD",
+        "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium124"
+      },
+      {
+        "title": "Astro Premier League 1",
+        "quality": "HD",
+        "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium125"
+      },
+      {
+        "title": "Astro Premier League 2",
+        "quality": "HD",
+        "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium126"
+      },
+      {
         "title": "Sky Sports Tennis",
         "quality": "HD",
         "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium46"
