@@ -39,5 +39,41 @@
         "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium46"
       }
     ]
+  },
+  {
+    "matchId": "tst_a_vs_tst_b_20250801",
+    "startDate": "2025-08-01",
+    "startTime": "00:18",
+    "teams": {
+      "left": {
+        "id": "tst_a",
+        "name": "TST A",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true"
+      },
+      "right": {
+        "id": "tst_b",
+        "name": "TST B",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true"
+      }
+    },
+    "tournament": "TEST",
+    "venue": "testing",
+    "streams": [
+      {
+        "title": "Sky Sports Mix",
+        "quality": "HD",
+        "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium449"
+      },
+      {
+        "title": "Sky Sports Cricket",
+        "quality": "HD",
+        "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium65"
+      },
+      {
+        "title": "Sky Sports Golf",
+        "quality": "HD",
+        "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium70"
+      }
+    ]
   }
 ]
