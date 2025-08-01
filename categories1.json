@@ -77,7 +77,32 @@
     "id": "tnt_sports",
     "name": "TNT Sports",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
-    "channels": []
+    "channels": [
+      {
+        "id": "tnt_sports_1",
+        "name": "TNT Sports 1",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/TNT%20Sports%201.jpg?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium31"
+      },
+      {
+        "id": "tnt_sports_2",
+        "name": "TNT Sports 2",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt-sports-2.jpg?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium32"
+      },
+      {
+        "id": "tnt_sports_3",
+        "name": "TNT Sports 3",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium33"
+      },
+      {
+        "id": "tnt_sports_4",
+        "name": "TNT Sports 4",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt-sports-4.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium34"
+      }
+    ]
   },
   {
     "id": "sky_sports",
