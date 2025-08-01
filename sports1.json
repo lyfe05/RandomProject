@@ -162,12 +162,6 @@
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium90"
   },
   {
-    "id": "bein_sports_english_3",
-    "name": "BeIN Sports English 3",
-    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-eng-3.png?raw=true",
-    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium46"
-  },
-  {
     "id": "bein_sports_1",
     "name": "BeIN Sports 1",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-1.png?raw=true",
