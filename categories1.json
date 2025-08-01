@@ -27,6 +27,12 @@
         "name": "Astro Premier League 2",
         "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Premier_League_2_(2024).png?raw=true",
         "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium126"
+      },
+      {
+        "id": "sky_sport_8_nz",
+        "name": "Sky Sport 8 NZ",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky_Sport_7_NZ.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium595"
       }
     ]
   },
