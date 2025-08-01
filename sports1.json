@@ -142,5 +142,71 @@
     "name": "Liverpool FC TV",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/lfc-digital-crest-story-23062024.png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium826"
+  },
+  {
+    "id": "astro_cricket",
+    "name": "Astro Cricket",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Cricket_(2024).png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium370"
+  },
+  {
+    "id": "bein_sports_english_1",
+    "name": "BeIN Sports English 1",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-eng-1.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium61"
+  },
+  {
+    "id": "bein_sports_english_2",
+    "name": "BeIN Sports English 2",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-eng-2.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium90"
+  },
+  {
+    "id": "bein_sports_english_3",
+    "name": "BeIN Sports English 3",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-eng-3.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium46"
+  },
+  {
+    "id": "bein_sports_1",
+    "name": "BeIN Sports 1",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-1.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium91"
+  },
+  {
+    "id": "bein_sports_2",
+    "name": "BeIN Sports 2",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-2.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium92"
+  },
+  {
+    "id": "bein_sports_3",
+    "name": "BeIN Sports 3",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-3.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium93"
+  },
+  {
+    "id": "bein_sports_4",
+    "name": "BeIN Sports 4",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-4.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium94"
+  },
+  {
+    "id": "bein_sports_5",
+    "name": "BeIN Sports 5",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-5.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium95"
+  },
+  {
+    "id": "bein_sports_6",
+    "name": "BeIN Sports 6",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-6.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium96"
+  },
+  {
+    "id": "bein_sports_7",
+    "name": "BeIN Sports 7",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-7.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium97"
   }
 ]
