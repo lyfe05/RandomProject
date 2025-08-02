@@ -468,12 +468,6 @@
     "hlsUrl": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=100"
   },
   {
-    "id": "hub_sports_2",
-    "name": "Hub Sports 2",
-    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-2.png?raw=true",
-    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/141908.m3u8"
-  },
-  {
     "id": "trutv",
     "name": "TruTv",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/TruTV_2014.svg.png?raw=true",
