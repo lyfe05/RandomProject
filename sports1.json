@@ -472,5 +472,11 @@
     "name": "TruTv",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/TruTV_2014.svg.png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium341"
+  },
+  {
+    "id": "red_bull_tv",
+    "name": "Red Bull TV",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Red-Bull-TV-01.png?raw=true",
+    "hlsUrl": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8"
   }
 ]
