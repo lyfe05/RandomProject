@@ -514,5 +514,11 @@
     "name": "TNT Sports 9",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
     "hlsUrl": "http://uglivetv.uk:80/live/gsMudpTanWdF/gbA3ce4JjpAZ/697066.m3u8"
+  },
+  {
+    "id": "trutv",
+    "name": "TruTv",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/TruTV_2014.svg.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium341"
   }
 ]
