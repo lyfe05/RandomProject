@@ -64,6 +64,78 @@
         "name": "Supersport Rugby",
         "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-rugby.png?raw=true",
         "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium421"
+      },
+      {
+        "id": "supersport_psl",
+        "name": "Supersport PSL",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-psl.png?raw=true",
+        "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium413"
+      },
+      {
+        "id": "supersport_grandstand",
+        "name": "Supersport Grandstand",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-grandstand.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138783.m3u8"
+      },
+      {
+        "id": "supersport_cricket",
+        "name": "Supersport Cricket",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_cricket.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138733.m3u8"
+      },
+      {
+        "id": "supersport_football",
+        "name": "Supersport Football",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_football.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138591.m3u8"
+      },
+      {
+        "id": "supersport_maximo_1",
+        "name": "Supersport Maximo 1",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/maximo.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138814.m3u8"
+      },
+      {
+        "id": "supersport_action",
+        "name": "Supersport Action",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-action.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138731.m3u8"
+      },
+      {
+        "id": "supersport_golf",
+        "name": "Supersport Golf",
+        "logoUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138784.ts",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138784.m3u8"
+      },
+      {
+        "id": "supersport_motorsport",
+        "name": "Supersport Motorsport",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-motorsport.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138595.m3u8"
+      },
+      {
+        "id": "supersport_variety_1",
+        "name": "Supersport Variety 1",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-variety-1.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138736.m3u8"
+      },
+      {
+        "id": "supersport_variety_2",
+        "name": "Supersport variety 2",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-variety-2.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138618.m3u8"
+      },
+      {
+        "id": "supersport_variety_3",
+        "name": "Supersport Variety 3",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-variety-3.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138738.m3u8"
+      },
+      {
+        "id": "supersport_variety_4",
+        "name": "Supersport Variety 4",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-variety-4.png?raw=true",
+        "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138596.m3u8"
       }
     ]
   },
