@@ -480,12 +480,6 @@
     "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/141911.m3u8"
   },
   {
-    "id": "tnt_sports_6",
-    "name": "TNT Sports 6",
-    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
-    "hlsUrl": "http://uglivetv.uk:80/live/gsMudpTanWdF/gbA3ce4JjpAZ/697063.m3u8"
-  },
-  {
     "id": "tnt_sports_7",
     "name": "TNT Sports 7",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
