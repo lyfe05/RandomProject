@@ -492,12 +492,6 @@
     "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/99537.m3u8"
   },
   {
-    "id": "astro_sports_plus",
-    "name": "Astro Sports Plus",
-    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Sports_Plus_(2024).png?raw=true",
-    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/120343.m3u8"
-  },
-  {
     "id": "tnt_sports_5",
     "name": "TNT Sports 5",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
