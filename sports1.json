@@ -316,5 +316,215 @@
     "name": "Premier Sports 2",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Premier_Sports_2_II.png?raw=true",
     "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium550"
+  },
+  {
+    "id": "supersport_psl",
+    "name": "Supersport PSL",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-psl.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium413"
+  },
+  {
+    "id": "supersport_grandstand",
+    "name": "Supersport Grandstand",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-grandstand.png?raw=true",
+    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/33004.m3u8"
+  },
+  {
+    "id": "supersport_blitz",
+    "name": "Supersport Blitz",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_blitz(1).png?raw=true",
+    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/33016.m3u8"
+  },
+  {
+    "id": "supersport_cricket",
+    "name": "Supersport Cricket",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_cricket.png?raw=true",
+    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/58305.m3u8"
+  },
+  {
+    "id": "supersport_football",
+    "name": "Supersport Football",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss_football.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138591.m3u8"
+  },
+  {
+    "id": "supersport_maximo_1",
+    "name": "Supersport Maximo 1",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/maximo.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138814.m3u8"
+  },
+  {
+    "id": "supersport_action",
+    "name": "Supersport Action",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-action.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138731.m3u8"
+  },
+  {
+    "id": "supersport_golf",
+    "name": "Supersport Golf",
+    "logoUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138784.ts",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138784.m3u8"
+  },
+  {
+    "id": "supersport_motorsport",
+    "name": "Supersport Motorsport",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-motorsport.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138595.m3u8"
+  },
+  {
+    "id": "supersport_variety_1",
+    "name": "Supersport Variety 1",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-variety-1.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138736.m3u8"
+  },
+  {
+    "id": "supersport_variety_2",
+    "name": "Supersport variety 2",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-variety-2.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138618.m3u8"
+  },
+  {
+    "id": "supersport_variety_3",
+    "name": "Supersport Variety 3",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-variety-3.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138738.m3u8"
+  },
+  {
+    "id": "supersport_variety_4",
+    "name": "Supersport Variety 4",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ss-variety-4.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/138596.m3u8"
+  },
+  {
+    "id": "la_liga_tv",
+    "name": "La Liga TV",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/LaLiga_logo_2023.svg.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/309460.m3u8"
+  },
+  {
+    "id": "hub_sports_1",
+    "name": "Hub Sports 1",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-1.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/280827.m3u8"
+  },
+  {
+    "id": "hub_sports_3",
+    "name": "Hub Sports 3",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-3.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/280829.m3u8"
+  },
+  {
+    "id": "hub_sports_4",
+    "name": "Hub Sports 4",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-4.png?raw=true",
+    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/280830.m3u8"
+  },
+  {
+    "id": "sportsnet_360",
+    "name": "Sportsnet 360",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sportsnet-360.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium409"
+  },
+  {
+    "id": "sportsnet_east",
+    "name": "Sportsnet East",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sportsnet_East_2011_short.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium408"
+  },
+  {
+    "id": "sportsnet_one",
+    "name": "Sportsnet One",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sportsnet_One_2011_short.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium411"
+  },
+  {
+    "id": "sportsnet_ontario",
+    "name": "Sportsnet Ontario",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sportsnet_Ontario_2011_short.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium406"
+  },
+  {
+    "id": "sportsnet_west",
+    "name": "Sportsnet West",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sportsnet_West_2011_short_72x72.png?raw=true",
+    "hlsUrl": "https://wasitv-pro.site/daddycdn.php?channel_id=premium407"
+  },
+  {
+    "id": "bein_sports_8",
+    "name": "BeIN Sports 8",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/BS8.png?raw=true",
+    "hlsUrl": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=98"
+  },
+  {
+    "id": "bein_sports_9",
+    "name": "BeIN Sports 9",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/BS9.png?raw=true",
+    "hlsUrl": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=99"
+  },
+  {
+    "id": "bein_sports_xtra",
+    "name": "BeIN Sports Xtra",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/bein-xtra.png?raw=true",
+    "hlsUrl": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=100"
+  },
+  {
+    "id": "hub_sports_2",
+    "name": "Hub Sports 2",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-2.png?raw=true",
+    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/141908.m3u8"
+  },
+  {
+    "id": "hub_sports_5",
+    "name": "Hub Sports 5",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-5.png?raw=true",
+    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/141911.m3u8"
+  },
+  {
+    "id": "spotv",
+    "name": "Spotv",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/spotv.png?raw=true",
+    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/78314.m3u8"
+  },
+  {
+    "id": "spotv_2",
+    "name": "Spotv 2",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/spo-tv-2-logo-png_seeklogo-410832.png?raw=true",
+    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/99537.m3u8"
+  },
+  {
+    "id": "astro_sports_plus",
+    "name": "Astro Sports Plus",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Astro_Sports_Plus_(2024).png?raw=true",
+    "hlsUrl": "http://hicham.in:80/live/825550929997182/1593574628/120343.m3u8"
+  },
+  {
+    "id": "tnt_sports_5",
+    "name": "TNT Sports 5",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
+    "hlsUrl": "http://uglivetv.uk:80/live/gsMudpTanWdF/gbA3ce4JjpAZ/697062.m3u8"
+  },
+  {
+    "id": "tnt_sports_6",
+    "name": "TNT Sports 6",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
+    "hlsUrl": "http://uglivetv.uk:80/live/gsMudpTanWdF/gbA3ce4JjpAZ/697063.m3u8"
+  },
+  {
+    "id": "tnt_sports_7",
+    "name": "TNT Sports 7",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
+    "hlsUrl": "http://uglivetv.uk:80/live/gsMudpTanWdF/gbA3ce4JjpAZ/697064.m3u8"
+  },
+  {
+    "id": "tnt_sports_8",
+    "name": "TNT Sports 8",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
+    "hlsUrl": "http://uglivetv.uk:80/live/gsMudpTanWdF/gbA3ce4JjpAZ/697065.m3u8"
+  },
+  {
+    "id": "tnt_sports_9",
+    "name": "TNT Sports 9",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true",
+    "hlsUrl": "http://uglivetv.uk:80/live/gsMudpTanWdF/gbA3ce4JjpAZ/697066.m3u8"
   }
 ]
