@@ -39,5 +39,31 @@
         "url": "https://wasitv-pro.site/daddycdn.php?channel_id=premium46"
       }
     ]
+  },
+  {
+    "matchId": "tst_a_vs_tst_b_20250805",
+    "startDate": "2025-08-05",
+    "startTime": "22:45",
+    "teams": {
+      "left": {
+        "id": "tst_a",
+        "name": "TST A",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true"
+      },
+      "right": {
+        "id": "tst_b",
+        "name": "TST B",
+        "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/tnt_sports.png?raw=true"
+      }
+    },
+    "tournament": "TEST",
+    "venue": "random",
+    "streams": [
+      {
+        "title": "Supersport Laliga",
+        "quality": "HD",
+        "url": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=416"
+      }
+    ]
   }
 ]
