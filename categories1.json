@@ -296,5 +296,11 @@
     "name": "Astro Sports",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/astro-supersport-television-logo-astro-malaysia-holdings-png-favpng-agPtE5q35MRV6fCQRMK4beCwX.jpg?raw=true",
     "channels": []
+  },
+  {
+    "id": "sky_cinema",
+    "name": "Sky Cinema",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sky_cinema.png?raw=true",
+    "channels": []
   }
 ]
