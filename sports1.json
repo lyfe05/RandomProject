@@ -508,5 +508,11 @@
     "name": "Supersport Football Plus",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/SS_football_plus.jpg?raw=true",
     "hlsUrl": "http://exm3u.extraott.com:900/live/2249871453/1991220000/400415390.m3u8"
+  },
+  {
+    "id": "cbs_sports_golazo",
+    "name": "CBS Sports Golazo",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/CBS_sports_golazo.png?raw=true",
+    "hlsUrl": "https://zekonew.newkso.ru/zeko/premium910/mono.m3u8"
   }
 ]
