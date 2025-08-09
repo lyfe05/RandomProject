@@ -405,19 +405,19 @@
     "id": "hub_sports_1",
     "name": "Hub Sports 1",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-1.png?raw=true",
-    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/280827.m3u8"
+    "hlsUrl": "https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": "hub_sports_3",
     "name": "Hub Sports 3",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-3.png?raw=true",
-    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/280829.m3u8"
+    "hlsUrl": "https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": "hub_sports_4",
     "name": "Hub Sports 4",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/hub-sports-4.png?raw=true",
-    "hlsUrl": "http://eagle2024.xyz:2082/live/riyrj8nzsh/pnh4sfge93/280830.m3u8"
+    "hlsUrl": "https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "id": "sportsnet_360",
@@ -489,13 +489,13 @@
     "id": "espn",
     "name": "ESPN",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/ESPN_logos.png?raw=true",
-    "hlsUrl": "http://181.188.216.5:18000/play/a0fb/index.m3u8"
+    "hlsUrl": "https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8"
   },
   {
     "id": "espn_2",
     "name": "ESPN 2",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/espn-2-logo-png_seeklogo-49202.png?raw=true",
-    "hlsUrl": "http://181.188.216.5:18000/play/a0oz/index.m3u8"
+    "hlsUrl": "https://windnew.newkso.ru/wind/premium45/mono.m3u8"
   },
   {
     "id": "afrosports",
