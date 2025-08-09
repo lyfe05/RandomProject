@@ -60,46 +60,5 @@
         "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono7/mono.m3u8"
       }
     ]
-  },
-  {
-    "matchId": "tza_vs_mdg_20250809",
-    "startDate": "2025-08-09",
-    "startTime": "20:00",
-    "teams": {
-      "left": {
-        "id": "tza",
-        "name": "TZA",
-        "logoUrl": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F585.png"
-      },
-      "right": {
-        "id": "mdg",
-        "name": "MDG",
-        "logoUrl": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1380.png"
-      }
-    },
-    "tournament": "African Nations Championship",
-    "venue": "_",
-    "streams": [
-      {
-        "title": "Supersport Laliga",
-        "quality": "HD",
-        "url": "https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8"
-      },
-      {
-        "title": "BeIN Sports 6",
-        "quality": "HD",
-        "url": "https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8"
-      },
-      {
-        "title": "live",
-        "quality": "HD",
-        "url": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=486"
-      },
-      {
-        "title": "live2",
-        "quality": "HD",
-        "url": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=714"
-      }
-    ]
   }
 ]
