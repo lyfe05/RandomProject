@@ -140,9 +140,9 @@
     ]
   },
   {
-    "id": "dstv",
-    "name": "DStv",
-    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/DStv_2023.png?raw=true",
+    "id": "africa",
+    "name": "Africa",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/sfrica.png?raw=true",
     "channels": [
       {
         "id": "m_net_movies_1",
