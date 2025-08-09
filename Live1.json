@@ -52,6 +52,11 @@
       {
         "title": "live",
         "quality": "HD",
+        "url": "https://seed.nakachi.online/hls/tennis20/playlist.m3u8"
+      },
+      {
+        "title": "live_2",
+        "quality": "HD",
         "url": "https://x4-cdnnew.newkso.ru/x4-cdn/mono7/mono.m3u8"
       }
     ]
