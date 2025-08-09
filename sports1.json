@@ -514,5 +514,11 @@
     "name": "CBS Sports Golazo",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/CBS_sports_golazo.png?raw=true",
     "hlsUrl": "https://zekonew.newkso.ru/zeko/premium910/mono.m3u8"
+  },
+  {
+    "id": "arsenal_tv",
+    "name": "Arsenal TV",
+    "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/arsenal-f-c-logo-png_seeklogo-306823.png?raw=true",
+    "hlsUrl": "https://seed.nakachi.online/hls/tennis20/playlist.m3u8"
   }
 ]
