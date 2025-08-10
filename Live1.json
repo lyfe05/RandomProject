@@ -45,9 +45,24 @@
     "venue": "_",
     "streams": [
       {
-        "title": "livei",
+        "title": "Supersport Laliga",
         "quality": "HD",
-        "url": "https://screenapp.io/app/#/shared/AuxxnbAwu9"
+        "url": "https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8"
+      },
+      {
+        "title": "BeIN Sports 6",
+        "quality": "HD",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8"
+      },
+      {
+        "title": "Supersport Maximo 1",
+        "quality": "HD",
+        "url": "https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8"
+      },
+      {
+        "title": "live",
+        "quality": "HD",
+        "url": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=486"
       }
     ]
   },
