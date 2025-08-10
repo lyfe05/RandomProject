@@ -19,9 +19,29 @@
     "venue": "_",
     "streams": [
       {
-        "title": "livee",
+        "title": "Supersport Premier League",
         "quality": "HD",
-        "url": "https://screenapp.io/app/#/shared/AuxxnbAwu9"
+        "url": "https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8"
+      },
+      {
+        "title": "Astro Grandstand",
+        "quality": "HD",
+        "url": "https://zekonew.newkso.ru/zeko/premium123/mono.m3u8"
+      },
+      {
+        "title": "Astro Premier League 1",
+        "quality": "HD",
+        "url": "https://zekonew.newkso.ru/zeko/premium125/mono.m3u8"
+      },
+      {
+        "title": "TNT Sports 1",
+        "quality": "HD",
+        "url": "https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8"
+      },
+      {
+        "title": "BeIN Sports English 1",
+        "quality": "HD",
+        "url": "https://windnew.newkso.ru/wind/premium61/mono.m3u8"
       }
     ]
   },
