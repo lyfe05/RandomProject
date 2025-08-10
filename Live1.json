@@ -127,9 +127,14 @@
     "venue": "_",
     "streams": [
       {
-        "title": "livec",
+        "title": "livin",
         "quality": "HD",
-        "url": "https://screenapp.io/app/#/shared/AuxxnbAwu9"
+        "url": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=355"
+      },
+      {
+        "title": "Livve",
+        "quality": "HD",
+        "url": "https://xfireflix.fun/wp-content/plugintv/stream.php?cid=124"
       }
     ]
   },
