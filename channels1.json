@@ -178,5 +178,11 @@
     "name": "Sky Cinema Thriller",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/Sky_Cinema_Thriller_(alternative).png?raw=true",
     "hlsUrl": "https://windnew.newkso.ru/wind/premium679/mono.m3u8"
+  },
+  {
+    "id": "afrobeats",
+    "name": "Afrobeats",
+    "logoUrl": "https://raw.githubusercontent.com/lyfe05/RandomProject/refs/heads/main/Images/download%20(1)%20(1).jpeg",
+    "hlsUrl": "https://."
   }
 ]
