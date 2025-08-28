@@ -184,5 +184,11 @@
     "name": "Trace Naija",
     "logoUrl": "https://github.com/lyfe05/RandomProject/blob/main/Images/trace-naija-logo-set-1_320x320.png?raw=true",
     "hlsUrl": "https://raw.githubusercontent.com/lyfe05/dlhd/refs/heads/main/Africa/Trace_Naija.m3u8"
+  },
+  {
+    "id": "studio_universal",
+    "name": "Studio Universal",
+    "logoUrl": "https://raw.githubusercontent.com/lyfe05/RandomProject/refs/heads/main/Images/112-studio-universal-dark.png",
+    "hlsUrl": "https://raw.githubusercontent.com/lyfe05/dlhd/refs/heads/main/Africa/Studio_Universal.m3u8"
   }
 ]
