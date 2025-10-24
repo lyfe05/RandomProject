@@ -10,7 +10,7 @@
 🆔 Match ID: 2618604
 🕒 Start: 2025-10-24 11:30 (GMT+3)
 📍 Tournament: Super League Indonesia
-📺 Channels: Not specified
+📺 Channels: Indosiar
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20525.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3875.png
 --------------------------------------------------
@@ -26,7 +26,7 @@
 🆔 Match ID: 2634766
 🕒 Start: 2025-10-24 13:30 (GMT+3)
 📍 Tournament: Azerbaijan Premier League
-📺 Channels: Not specified
+📺 Channels: CBC Sport Azerbaijan
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/25292.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/24597.png
 --------------------------------------------------
@@ -82,7 +82,7 @@
 🆔 Match ID: 2637140
 🕒 Start: 2025-10-24 15:00 (GMT+3)
 📍 Tournament: First Professional Football League
-📺 Channels: Not specified
+📺 Channels: Diema Sport Bulgaria, Sportklub 3 Croatia, Diema Sport (BG)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5184.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14567.png
 --------------------------------------------------
@@ -90,7 +90,7 @@
 🆔 Match ID: 2619882
 🕒 Start: 2025-10-24 15:00 (GMT+3)
 📍 Tournament: Kategoria Superiore
-📺 Channels: Not specified
+📺 Channels: RTSH Sport Albania
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3914.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2532.png
 --------------------------------------------------
@@ -106,7 +106,7 @@
 🆔 Match ID: 2618605
 🕒 Start: 2025-10-24 15:00 (GMT+3)
 📍 Tournament: Super League Indonesia
-📺 Channels: Not specified
+📺 Channels: Indosiar
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3878.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3863.png
 --------------------------------------------------
@@ -122,7 +122,7 @@
 🆔 Match ID: 2611283
 🕒 Start: 2025-10-24 16:00 (GMT+3)
 📍 Tournament: 1. Lig
-📺 Channels: Not specified
+📺 Channels: TRT Spor Turkey, beIN Sports 2 Turkey
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/3947.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/3971.png
 --------------------------------------------------
@@ -154,7 +154,7 @@
 🆔 Match ID: 2615005
 🕒 Start: 2025-10-24 16:00 (GMT+3)
 📍 Tournament: Liga Super Malaysia
-📺 Channels: Not specified
+📺 Channels: Astro Arena Bola
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/30818.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/41829.png
 --------------------------------------------------
@@ -194,7 +194,7 @@
 🆔 Match ID: 2635911
 🕒 Start: 2025-10-24 16:30 (GMT+3)
 📍 Tournament: Persian Gulf Pro League
-📺 Channels: Not specified
+📺 Channels: IRIB Varzesh
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11300.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/7677.png
 --------------------------------------------------
@@ -210,7 +210,7 @@
 🆔 Match ID: 2593295
 🕒 Start: 2025-10-24 17:00 (GMT+3)
 📍 Tournament: SuperLiga
-📺 Channels: Not specified
+📺 Channels: Arena 3 Premium Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2858.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/934.png
 --------------------------------------------------
@@ -226,7 +226,7 @@
 🆔 Match ID: 2642326
 🕒 Start: 2025-10-24 17:15 (GMT+3)
 📍 Tournament: First League
-📺 Channels: Not specified
+📺 Channels: Match Premier Russia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4272.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2256.png
 --------------------------------------------------
@@ -234,7 +234,7 @@
 🆔 Match ID: 2637141
 🕒 Start: 2025-10-24 17:30 (GMT+3)
 📍 Tournament: First Professional Football League
-📺 Channels: Not specified
+📺 Channels: Diema Sport Bulgaria, Diema Sport (BG)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5859.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1915.png
 --------------------------------------------------
@@ -242,7 +242,7 @@
 🆔 Match ID: 2600338
 🕒 Start: 2025-10-24 17:30 (GMT+3)
 📍 Tournament: SuperLiga României
-📺 Channels: Not specified
+📺 Channels: Digi Sport 1 Romania, Prima Sport 1 Romania
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10609.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/8481.png
 --------------------------------------------------
@@ -250,7 +250,7 @@
 🆔 Match ID: 2632891
 🕒 Start: 2025-10-24 17:45 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube
+📺 Channels: Saudi Pro League YouTube, Jordan TV Sport, Thmanyah, Fox Soccer Plus, Sportdigital FUSSBALL DE, Sport TV4 Portugal, Prima Sport 3 Romania, SporTV BR (CH-78) Movistar Liga de Campeones, Bandsports Brasil, Cosmote Sport 8 Greece, Fox Soccer Plus (US)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2331.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2327.png
 --------------------------------------------------
@@ -274,7 +274,7 @@
 🆔 Match ID: 2643220
 🕒 Start: 2025-10-24 18:00 (GMT+3)
 📍 Tournament: Iraq Stars League
-📺 Channels: Not specified
+📺 Channels: Al Iraqiya Sports
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19514.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17006.png
 --------------------------------------------------
@@ -282,7 +282,7 @@
 🆔 Match ID: 2619880
 🕒 Start: 2025-10-24 18:00 (GMT+3)
 📍 Tournament: Kategoria Superiore
-📺 Channels: Not specified
+📺 Channels: RTSH Sport Albania
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2544.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2541.png
 --------------------------------------------------
@@ -290,7 +290,7 @@
 🆔 Match ID: 2619881
 🕒 Start: 2025-10-24 18:00 (GMT+3)
 📍 Tournament: Kategoria Superiore
-📺 Channels: Not specified
+📺 Channels: RTSH 2 Albania
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/37031.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2537.png
 --------------------------------------------------
@@ -298,7 +298,7 @@
 🆔 Match ID: 2576521
 🕒 Start: 2025-10-24 18:00 (GMT+3)
 📍 Tournament: Tonybet Virsliga
-📺 Channels: Not specified
+📺 Channels: TV4 Latvia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7469.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17541.png
 --------------------------------------------------
@@ -322,7 +322,7 @@
 🆔 Match ID: 2599768
 🕒 Start: 2025-10-24 18:30 (GMT+3)
 📍 Tournament: 1. SNL
-📺 Channels: Not specified
+📺 Channels: Sport Klub 3 Croatia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4314.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/13826.png
 --------------------------------------------------
@@ -330,7 +330,7 @@
 🆔 Match ID: 2635907
 🕒 Start: 2025-10-24 18:30 (GMT+3)
 📍 Tournament: Persian Gulf Pro League
-📺 Channels: Not specified
+📺 Channels: IRIB Varzesh
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4463.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/48079.png
 --------------------------------------------------
@@ -338,7 +338,7 @@
 🆔 Match ID: 2632892
 🕒 Start: 2025-10-24 18:30 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Not specified
+📺 Channels: Thmanyah
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/26702.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2452.png
 --------------------------------------------------
@@ -346,7 +346,7 @@
 🆔 Match ID: 2593291
 🕒 Start: 2025-10-24 18:30 (GMT+3)
 📍 Tournament: SuperLiga
-📺 Channels: Not specified
+📺 Channels: Arena 2 Premium Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2860.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/16687.png
 --------------------------------------------------
@@ -354,7 +354,7 @@
 🆔 Match ID: 2593293
 🕒 Start: 2025-10-24 18:30 (GMT+3)
 📍 Tournament: SuperLiga
-📺 Channels: Not specified
+📺 Channels: Arena 1 Premium Serbia, Arena Sport 9 Serbia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/354.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2853.png
 --------------------------------------------------
@@ -362,7 +362,7 @@
 🆔 Match ID: 2595962
 🕒 Start: 2025-10-24 19:00 (GMT+3)
 📍 Tournament: 1. HNL
-📺 Channels: Not specified
+📺 Channels: MAX Sport 1 Croatia, Arena Sport 9 Serbia, MAX Sport 1 (HR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5837.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/529.png
 --------------------------------------------------
@@ -394,7 +394,7 @@
 🆔 Match ID: 2591302
 🕒 Start: 2025-10-24 19:00 (GMT+3)
 📍 Tournament: Ekstraklasa
-📺 Channels: Not specified
+📺 Channels: Canal+ Sport 3 Poland, Canal+ Sport 5 Poland, Arena Sport 1 Croatia, Canal+ Sport 3 (PL)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2218.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1297.png
 --------------------------------------------------
@@ -426,7 +426,7 @@
 🆔 Match ID: 2604777
 🕒 Start: 2025-10-24 19:15 (GMT+3)
 📍 Tournament: Maltese Premier League
-📺 Channels: Not specified
+📺 Channels: TVMSport+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/18295.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/24842.png
 --------------------------------------------------
@@ -434,7 +434,7 @@
 🆔 Match ID: 2603943
 🕒 Start: 2025-10-24 19:30 (GMT+3)
 📍 Tournament: 2. Bundesliga
-📺 Channels: Bundesliga YouTube
+📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 4, Nova Sport 6 CZ, Eleven Sports 3 Poland, Arena 4 Premium Serbia, beIN SPORTS Australia 3, Nova Sport Bulgaria, Sky Sport Bundesliga 4 (DE)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/165.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/172.png
 --------------------------------------------------
@@ -442,7 +442,7 @@
 🆔 Match ID: 2603944
 🕒 Start: 2025-10-24 19:30 (GMT+3)
 📍 Tournament: 2. Bundesliga
-📺 Channels: Bundesliga YouTube
+📺 Channels: Bundesliga YouTube, Sky Sport Bundesliga 3, Nova Sport 4 CZ, DAZN Eleven 1 Portugal, Eleven Sports 2 Poland, beIN SPORTS Australia 2, Digi Sport 3 Romania, Prima Sport 3 Romania, beIN Sports 3 Malaysia, Arena 3 Premium Serbia, Fox Sports 2 Argentina, Sport Klub 1 Croatia, Nova Sports 2 Greece, Diema Sport 3 Bulgaria, Sport 1 Israel, Sky Sport Bundesliga 3 (DE)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/144.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/789.png
 --------------------------------------------------
@@ -450,7 +450,7 @@
 🆔 Match ID: 2642327
 🕒 Start: 2025-10-24 19:30 (GMT+3)
 📍 Tournament: First League
-📺 Channels: Not specified
+📺 Channels: Match Premier Russia, Match TV Russia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2456.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1905.png
 --------------------------------------------------
@@ -474,7 +474,7 @@
 🆔 Match ID: 2611285
 🕒 Start: 2025-10-24 20:00 (GMT+3)
 📍 Tournament: 1. Lig
-📺 Channels: Not specified
+📺 Channels: TRT Spor Turkey, beIN Sports 2 Turkey
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/230.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2147.png
 --------------------------------------------------
@@ -498,7 +498,7 @@
 🆔 Match ID: 2637143
 🕒 Start: 2025-10-24 20:00 (GMT+3)
 📍 Tournament: First Professional Football League
-📺 Channels: Not specified
+📺 Channels: Diema Sport Bulgaria, Diema Sport (BG)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/952.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/21005.png
 --------------------------------------------------
@@ -586,7 +586,7 @@
 🆔 Match ID: 2563200
 🕒 Start: 2025-10-24 20:00 (GMT+3)
 📍 Tournament: Superettan
-📺 Channels: Not specified
+📺 Channels: max Extra 1 Sweden
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4949.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6497.png
 --------------------------------------------------
@@ -594,7 +594,7 @@
 🆔 Match ID: 2592251
 🕒 Start: 2025-10-24 20:00 (GMT+3)
 📍 Tournament: Superligaen
-📺 Channels: Not specified
+📺 Channels: TV3 Sport Denmark, Arena Sport 7 Serbia, TV3 Sport (DK)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1060.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/457.png
 --------------------------------------------------
@@ -602,7 +602,7 @@
 🆔 Match ID: 2608568
 🕒 Start: 2025-10-24 20:00 (GMT+3)
 📍 Tournament: Süper Lig
-📺 Channels: Not specified
+📺 Channels: beIN Sports 1 Turkey, beIN Sports 1 (TR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2100.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/242.png
 --------------------------------------------------
@@ -610,7 +610,7 @@
 🆔 Match ID: 2597833
 🕒 Start: 2025-10-24 20:30 (GMT+3)
 📍 Tournament: Challenge League
-📺 Channels: Not specified
+📺 Channels: Blue Sport 1 Live
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2029.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10109.png
 --------------------------------------------------
@@ -618,7 +618,7 @@
 🆔 Match ID: 2597836
 🕒 Start: 2025-10-24 20:30 (GMT+3)
 📍 Tournament: Challenge League
-📺 Channels: Not specified
+📺 Channels: Blue Sport 2 Live
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/549.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6862.png
 --------------------------------------------------
@@ -634,7 +634,7 @@
 🆔 Match ID: 2600340
 🕒 Start: 2025-10-24 20:30 (GMT+3)
 📍 Tournament: SuperLiga României
-📺 Channels: Not specified
+📺 Channels: Digi Sport 1 Romania, Prima Sport 1 Romania
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/8482.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/520.png
 --------------------------------------------------
@@ -642,7 +642,7 @@
 🆔 Match ID: 2609074
 🕒 Start: 2025-10-24 20:45 (GMT+3)
 📍 Tournament: Liga Portugal 2
-📺 Channels: Not specified
+📺 Channels: Sport TV+ Portugal
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7356.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1722.png
 --------------------------------------------------
@@ -690,7 +690,7 @@
 🆔 Match ID: 2595289
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Eerste Divisie
-📺 Channels: Not specified
+📺 Channels: ESPN 4 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2024.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2018.png
 --------------------------------------------------
@@ -698,7 +698,7 @@
 🆔 Match ID: 2639394
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Eerste Divisie
-📺 Channels: Not specified
+📺 Channels: ESPN 3 NL
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1064.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1179.png
 --------------------------------------------------
@@ -738,7 +738,7 @@
 🆔 Match ID: 2594938
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Eredivisie
-📺 Channels: Not specified
+📺 Channels: ESPN 2 NL, ESPN 2 (NL)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/555.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1177.png
 --------------------------------------------------
@@ -762,7 +762,7 @@
 🆔 Match ID: 2603123
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Ligue 2
-📺 Channels: Not specified
+📺 Channels: beIN Sports MAX 6 France, beIN Sports MAX 6 (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4499.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/271.png
 --------------------------------------------------
@@ -770,7 +770,7 @@
 🆔 Match ID: 2603121
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Ligue 2
-📺 Channels: Not specified
+📺 Channels: beIN Sports MAX 5 France, beIN Sports MAX 5 (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/755.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/711.png
 --------------------------------------------------
@@ -778,7 +778,7 @@
 🆔 Match ID: 2603119
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Ligue 2
-📺 Channels: Not specified
+📺 Channels: beIN Sports MAX 4 France, beIN Sports MAX 4 (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7405.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4503.png
 --------------------------------------------------
@@ -786,7 +786,7 @@
 🆔 Match ID: 2603120
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Ligue 2
-📺 Channels: Not specified
+📺 Channels: beIN Sports MAX 7 France, beIN Sports MAX 7 (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/269.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/270.png
 --------------------------------------------------
@@ -794,7 +794,7 @@
 🆔 Match ID: 2603125
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Ligue 2
-📺 Channels: Not specified
+📺 Channels: beIN Sports 2 France, beIN Sports MENA 5, beIN Sports 2 (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/703.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/700.png
 --------------------------------------------------
@@ -802,7 +802,7 @@
 🆔 Match ID: 2603124
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Ligue 2
-📺 Channels: Not specified
+📺 Channels: beIN Sports MAX 8 France, beIN Sports MAX 8 (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/754.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/697.png
 --------------------------------------------------
@@ -834,7 +834,7 @@
 🆔 Match ID: 2628609
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Premier League 2
-📺 Channels: FIFA+, DFB Play
+📺 Channels: FIFA+, DFB Play, Fox Sports 2 USA, Teledeporte Spain (TDP), Fox Soccer Plus
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/11653.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/10536.png
 --------------------------------------------------
@@ -850,7 +850,7 @@
 🆔 Match ID: 2628611
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Premier League 2
-📺 Channels: FIFA+, DFB Play
+📺 Channels: FIFA+, DFB Play, Fox Sports 2 USA, Teledeporte Spain (TDP), Fox Soccer Plus
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/10605.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/15020.png
 --------------------------------------------------
@@ -866,7 +866,7 @@
 🆔 Match ID: 2632893
 🕒 Start: 2025-10-24 21:00 (GMT+3)
 📍 Tournament: Saudi Pro League
-📺 Channels: Saudi Pro League YouTube
+📺 Channels: Saudi Pro League YouTube, Jordan TV Sport, Thmanyah, Fox Soccer Plus, Sportdigital FUSSBALL DE, Sport TV4 Portugal, Prima Sport 3 Romania, SporTV BR (CH-78) Movistar Liga de Campeones, Bandsports Brasil, Cosmote Sport 8 Greece, Fox Soccer Plus (US)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2335.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2328.png
 --------------------------------------------------
@@ -874,7 +874,7 @@
 🆔 Match ID: 2597837
 🕒 Start: 2025-10-24 21:15 (GMT+3)
 📍 Tournament: Challenge League
-📺 Channels: Not specified
+📺 Channels: Blue Sport D 1, Blue Sport D 1 (CH)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/713.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1614.png
 --------------------------------------------------
@@ -882,7 +882,7 @@
 🆔 Match ID: 2603467
 🕒 Start: 2025-10-24 21:30 (GMT+3)
 📍 Tournament: Bundesliga
-📺 Channels: Bundesliga YouTube, The Overlap YouTube, That's Football YouTube, BBC iPlayer, BBC Sport Website
+📺 Channels: Bundesliga YouTube, The Overlap YouTube, That's Football YouTube, BBC iPlayer, BBC Sport Website, Sky Sport Bundesliga 1, Sky Sport Top Event DE, Nova Sport 3 CZ, DAZN Eleven 3 Portugal, Eleven Sports 4 Poland, beIN Sports MAX 9 France, SONY TEN 2 HD, beIN Sports 3 Malaysia, Arena 5 Premium Serbia, Nova Sports 3 Greece, Sport Klub 1 Croatia, TV3 MAX Denmark, Nova Sport Bulgaria, SporTV2 BR, ESPN3 Argentina, Sport 1 Israel, Sky Sport Bundesliga 1 (DE), beIN Sports MAX 9 (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/150.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/174.png
 --------------------------------------------------
@@ -890,7 +890,7 @@
 🆔 Match ID: 2591304
 🕒 Start: 2025-10-24 21:30 (GMT+3)
 📍 Tournament: Ekstraklasa
-📺 Channels: Not specified
+📺 Channels: Canal+ Sport Poland, Polsat Sport Extra 2 Poland, Canal+ Sport 3 (PL)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/20264.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1298.png
 --------------------------------------------------
@@ -898,7 +898,7 @@
 🆔 Match ID: 2596426
 🕒 Start: 2025-10-24 21:30 (GMT+3)
 📍 Tournament: I Liga
-📺 Channels: Not specified
+📺 Channels: TVP Sport Poland
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4300.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/458.png
 --------------------------------------------------
@@ -906,7 +906,7 @@
 🆔 Match ID: 2605846
 🕒 Start: 2025-10-24 21:30 (GMT+3)
 📍 Tournament: La Liga 2
-📺 Channels: Premier Player
+📺 Channels: Premier Player, LALIGA TV Hypermotion, GOL PLAY ES, Match! Football 3 Russia, Arena Sport 6 Serbia, Nova Sports 6 Greece, Laliga Hypermotion (ES)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/694.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/687.png
 --------------------------------------------------
@@ -914,7 +914,7 @@
 🆔 Match ID: 2625521
 🕒 Start: 2025-10-24 21:30 (GMT+3)
 📍 Tournament: Serie C
-📺 Channels: Not specified
+📺 Channels: Sky Sport 253 IT
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/721.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/5614.png
 --------------------------------------------------
@@ -922,7 +922,7 @@
 🆔 Match ID: 2625511
 🕒 Start: 2025-10-24 21:30 (GMT+3)
 📍 Tournament: Serie C
-📺 Channels: Not specified
+📺 Channels: Sky Sport 252 IT, Sky Sport Arena IT
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5720.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/17204.png
 --------------------------------------------------
@@ -930,7 +930,7 @@
 🆔 Match ID: 2591574
 🕒 Start: 2025-10-24 21:45 (GMT+3)
 📍 Tournament: Serie A
-📺 Channels: DAZN
+📺 Channels: DAZN, Sky Sport 251 IT, Sky Sport Uno IT, Sky Sport Calcio IT, DAZN1 DE, Sport TV3 Portugal, Eleven Sports 2 Poland, Ziggo Sport 2 NL, Digi Sport 2 Romania, Match TV Russia, Match! Football 1 Russia, FOX Deportes, beIN SPORTS Australia 3, Arena 3 Premium Serbia, TV4 Fotball, Cosmote Sport 2 Greece, Arena Sport 4 Croatia, MAX Sport 3 Bulgaria, ESPN Brazil, SuperSport Football, Paramount+ (US), Sky Sport Calcio (IT), Fox Deportes (ES)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/23.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1209.png
 --------------------------------------------------
@@ -938,7 +938,7 @@
 🆔 Match ID: 2602866
 🕒 Start: 2025-10-24 21:45 (GMT+3)
 📍 Tournament: Ligue 1
-📺 Channels: Ligue 1 Pass
+📺 Channels: Ligue 1 Pass, DAZN France, beIN SPORTS USA, beIN SPORTS en Español, Nova Sport 4 CZ, Arena Sport 4 Serbia, Arena Sport 2 Croatia, V Sport Football, SuperSport Variety 4, beIN Sports MENA 4, 5Plus Israel, beIN Sports (US), Ligue1+ (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5170.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/708.png
 --------------------------------------------------
@@ -946,7 +946,7 @@
 🆔 Match ID: 2595647
 🕒 Start: 2025-10-24 22:00 (GMT+3)
 📍 Tournament: Premier League
-📺 Channels: LOITV, Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR
+📺 Channels: LOITV, Sky Sports Main Event, Sky Sports Premier League, Sky Sports Ultra HDR, Hub Premier, Sky Sports Main Event UK, Sky Sports Premier League UK, USA Network, Sky Sport 8 NZ, DAZN1 Spain, Sky Sport 255 IT, V Sport Premium, DAZN Eleven 1 Portugal, Canal+ Foot France, Astro Premier League, Astro Grandstand, Arena 2 Premium Serbia, Nova Sports Premier League Greece, Arena Sport 1 Croatia, See Denmark, Diema Sport 2 Bulgaria, ESPN2 Argentina, SuperSport Premier League, beIN Sports MENA 2, beIN Sports MENA English 1, Sport 2 Israel, USA Network (US), DAZN1 (ES), Canal+ Foot (FR)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/571.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/198.png
 --------------------------------------------------
@@ -954,7 +954,7 @@
 🆔 Match ID: 2605202
 🕒 Start: 2025-10-24 22:00 (GMT+3)
 📍 Tournament: LaLiga
-📺 Channels: Premier Sports 2
+📺 Channels: Premier Sports 2, DAZN LaLiga, LaLiga TV UK, Viaplay Sports 2 UK, Premier Sports 2 Ireland, Nova Sport 6 CZ, DAZN Eleven 2 Portugal, Eleven Sports 3 Poland, beIN Sports MAX 10 France, Ziggo Sport 3 NL, Match! Football 2 Russia, Digi Sport 3 Romania, ESPN Deportes, Arena 4 Premium Serbia, Nova Sports 1 Greece, TV2 Sport X Denmark, TV4 Sport Live 1, ESPN3 Brazil, MAX Sport 4 Bulgaria, SuperSport Laliga, beIN Sports MENA 1, Now Sports 2 (GB), ESPN Deportes (ES)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/223.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/28.png
 --------------------------------------------------
@@ -970,7 +970,7 @@
 🆔 Match ID: 2600931
 🕒 Start: 2025-10-24 22:00 (GMT+3)
 📍 Tournament: EFL Championship
-📺 Channels: Sky Sports Football, Sky Sports Ultra HDR
+📺 Channels: Sky Sports Football, Sky Sports Ultra HDR, Sky Sports Football UK, Astro Football, Arena Sport 3 Croatia, SuperSport Action, Cosmote Sport 3 Greece, beIN SPORTS Australia 2, beIN Sports MENA 3, Sport 3 Israel, Sky Sports Football (GB)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/578.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/583.png
 --------------------------------------------------
@@ -994,7 +994,7 @@
 🆔 Match ID: 2604781
 🕒 Start: 2025-10-24 22:00 (GMT+3)
 📍 Tournament: Maltese Premier League
-📺 Channels: Not specified
+📺 Channels: TVMSport+
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5927.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/14105.png
 --------------------------------------------------
@@ -1002,7 +1002,7 @@
 🆔 Match ID: 2608944
 🕒 Start: 2025-10-24 22:15 (GMT+3)
 📍 Tournament: Liga Portugal
-📺 Channels: Not specified
+📺 Channels: Sport TV1 Portugal, GOLTV USA, Cosmote Sport 7 Greece, Sport TV1 (PT)
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/19430.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1185.png
 --------------------------------------------------
@@ -1018,7 +1018,7 @@
 🆔 Match ID: 2609075
 🕒 Start: 2025-10-24 22:45 (GMT+3)
 📍 Tournament: Liga Portugal 2
-📺 Channels: Not specified
+📺 Channels: Sport TV2 Portugal
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/5774.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/8467.png
 --------------------------------------------------
@@ -1050,7 +1050,7 @@
 🆔 Match ID: 2641881
 🕒 Start: 2025-10-24 23:00 (GMT+3)
 📍 Tournament: Peru Liga 1
-📺 Channels: Not specified
+📺 Channels: Liga 1 Max Peru
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/53365.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/6417.png
 --------------------------------------------------
@@ -1066,7 +1066,7 @@
 🆔 Match ID: 2572414
 🕒 Start: 2025-10-24 23:00 (GMT+3)
 📍 Tournament: Primera División
-📺 Channels: Not specified
+📺 Channels: TNT SPORTS Premium HD
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1806.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/4059.png
 --------------------------------------------------
@@ -1090,7 +1090,7 @@
 🆔 Match ID: 2609657
 🕒 Start: 2025-10-25 00:00 (GMT+3)
 📍 Tournament: Primera A Clausura
-📺 Channels: Not specified
+📺 Channels: Win+ Futbol Colombia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2305.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2057.png
 --------------------------------------------------
@@ -1130,7 +1130,7 @@
 🆔 Match ID: 2642995
 🕒 Start: 2025-10-25 01:30 (GMT+3)
 📍 Tournament: Campeonato Uruguayo Primera Clausura
-📺 Channels: Not specified
+📺 Channels: VTV+ Uruguay, GOLTV USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/1692.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9623.png
 --------------------------------------------------
@@ -1162,7 +1162,7 @@
 🆔 Match ID: 2609660
 🕒 Start: 2025-10-25 02:00 (GMT+3)
 📍 Tournament: Primera A Clausura
-📺 Channels: Not specified
+📺 Channels: Win+ Futbol Colombia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2390.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2063.png
 --------------------------------------------------
@@ -1186,7 +1186,7 @@
 🆔 Match ID: 2578914
 🕒 Start: 2025-10-25 03:35 (GMT+3)
 📍 Tournament: Brasileirão Série B Superbet
-📺 Channels: Not specified
+📺 Channels: ESPN Brazil
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/2704.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2673.png
 --------------------------------------------------
@@ -1194,7 +1194,7 @@
 🆔 Match ID: 2590915
 🕒 Start: 2025-10-25 04:00 (GMT+3)
 📍 Tournament: Liga BBVA MX
-📺 Channels: Not specified
+📺 Channels: NBC UNIVERSO USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/6717.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1837.png
 --------------------------------------------------
@@ -1210,7 +1210,7 @@
 🆔 Match ID: 2617567
 🕒 Start: 2025-10-25 04:00 (GMT+3)
 📍 Tournament: Liga de Expansión MX
-📺 Channels: Not specified
+📺 Channels: ESPN2 Mexico
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/7550.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/9363.png
 --------------------------------------------------
@@ -1218,7 +1218,7 @@
 🆔 Match ID: 2641066
 🕒 Start: 2025-10-25 04:10 (GMT+3)
 📍 Tournament: Copa Argentina
-📺 Channels: Not specified
+📺 Channels: TyC Sports Argentina, Sport TV1 Portugal
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4756.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1829.png
 --------------------------------------------------
@@ -1226,7 +1226,7 @@
 🆔 Match ID: 2609658
 🕒 Start: 2025-10-25 04:10 (GMT+3)
 📍 Tournament: Primera A Clausura
-📺 Channels: Not specified
+📺 Channels: Win+ Futbol Colombia
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/4710.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/2062.png
 --------------------------------------------------
@@ -1258,7 +1258,7 @@
 🆔 Match ID: 2590916
 🕒 Start: 2025-10-25 06:00 (GMT+3)
 📍 Tournament: Liga BBVA MX
-📺 Channels: Not specified
+📺 Channels: Azteca 7 MX, TUDN USA
 🖼️ Home Logo: https://images.onefootball.com/icons/teams/164/17915.png
 🖼️ Away Logo: https://images.onefootball.com/icons/teams/164/1834.png
 --------------------------------------------------
