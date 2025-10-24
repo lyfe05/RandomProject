@@ -166,55 +166,126 @@ def fetch_wheresthematch_matches():
         logger.error(f"Error fetching WherestheMatch: {e}")
     return matches
 
-# ---------- DADDYLIVE (EXTRA STREAM FILTERED) ----------
+# ---------- DADDYLIVE (HTML scraper version with filters) ----------
 def fetch_daddylive_matches():
-    logger.info("📡 Fetching matches from DaddyLive...")
-    url = "https://daddylivestream.com/schedule/schedule-generated.php"
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Referer": "https://daddylivestream.com/",
-        "Origin": "https://daddylivestream.com/"
-    }
+    logger.info("📡 Fetching matches from DaddyLive (HTML via dlhd.dad)...")
+    import pycurl
+    from io import BytesIO
+
+    URL = "https://dlhd.dad/"
+    UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
+
+    def fetch_html():
+        buf = BytesIO()
+        c = pycurl.Curl()
+        c.setopt(c.URL, URL)
+        c.setopt(c.HTTPHEADER, [f"User-Agent: {UA}", "Accept: text/html,*/*;q=0.8"])
+        c.setopt(c.WRITEDATA, buf)
+        c.setopt(c.SSL_VERIFYPEER, 0)
+        c.setopt(c.SSL_VERIFYHOST, 0)
+        c.setopt(c.FOLLOWLOCATION, 1)
+        c.setopt(c.TIMEOUT, 0)
+        try:
+            c.perform()
+            if c.getinfo(c.RESPONSE_CODE) != 200:
+                raise RuntimeError("non-200 response")
+        finally:
+            c.close()
+        return buf.getvalue().decode("utf-8", errors="ignore")
+
+    def html_time_to_gmt3(time_str: str, base_date: datetime) -> str:
+        """UK winter GMT+0 → Africa/Nairobi GMT+3"""
+        try:
+            h, m = map(int, time_str.split(":"))
+            uk = base_date.replace(hour=h, minute=m, second=0, microsecond=0,
+                                   tzinfo=timezone.utc)
+            return uk.astimezone(pytz.timezone("Africa/Nairobi")).strftime("%Y-%m-%d %H:%M")
+        except Exception:
+            return time_str
+
+    BLOCKED_KEYWORDS = [
+        "tennis", "basketball", "hockey", "volleyball", "handball",
+        "table tennis", "snooker", "darts", "esport", "counter-strike",
+        "mlb", "nfl", "rugby", "cricket", "boxing", "mma", "ufc",
+        "wwe", "badminton", "futsal", "cycling", "motogp", "formula",
+        "nascar", "golf", "chess", "kabaddi"
+    ]
+
     matches = []
+    seen = set()
+
     try:
-        resp = requests.get(url, headers=headers, timeout=15)
-        resp.raise_for_status()
-        data = resp.json()
-        for _, cats in data.items():
-            for sport, events in cats.items():
-                if "soccer" not in sport.lower():
+        html = fetch_html()
+        soup = BeautifulSoup(html, "html5lib")
+
+        for day_block in soup.select("div.schedule__day"):
+            day_title = day_block.select_one(".schedule__dayTitle")
+            if not day_title:
+                continue
+
+            m = re.search(r"(\d{1,2})\w{2}\s+(\w+)\s+(\d{4})", day_title.get_text(" ", strip=True))
+            if not m:
+                continue
+
+            day, month_abbr, year = m.groups()
+            base_date = datetime(int(year), datetime.strptime(month_abbr[:3], "%b").month, int(day))
+
+            for row in day_block.select("div.schedule__event"):
+                header = row.select_one("div.schedule__eventHeader")
+                if not header:
                     continue
-                for e in events:
-                    title = e.get("event", "")
-                    if ":" not in title or "vs" not in title.lower():
-                        continue
-                    comp, fixture = title.split(":", 1)
-                    parts = re.split(r"\s+vs\.?\s+", fixture, flags=re.I)
-                    if len(parts) != 2:
-                        continue
-                    home, away = [p.strip() for p in parts]
 
-                    def ch_extract(c_list):
-                        out = []
-                        for c in c_list:
-                            if isinstance(c, dict):
-                                out.append(c.get("channel_name", "Unknown"))
-                            elif isinstance(c, str):
-                                out.append(c)
-                        return out
+                time_raw = header.select_one("span.schedule__time").get_text(strip=True)
+                title_raw = header.get("data-title") or header.select_one("span.schedule__eventTitle").get_text(strip=True)
+                title_raw = re.sub(r"\s*\(?\b\d{1,2}:\d{2}\)?\s*$", "", title_raw)
 
-                    ch1 = ch_extract(e.get("channels", []))
-                    ch2 = ch_extract(e.get("channels2", []))
-                    all_ch = ch1 + ch2
-                    if not all_ch or all("extra stream" in ch.lower() for ch in all_ch):
-                        continue
+                if " vs " not in title_raw.lower():
+                    continue
 
-                    matches.append({"home": home, "away": away, "competition": comp.strip(), "channels": all_ch})
-        logger.info(f"✅ DaddyLive: {len(matches)} valid football matches")
+                comp, _, fixture = title_raw.partition(":")
+                comp = comp.strip() or "Unknown Competition"
+                fixture = fixture.strip()
+
+                # Skip non-football sports
+                text = f"{comp.lower()} {fixture.lower()}"
+                if any(bad in text for bad in BLOCKED_KEYWORDS):
+                    continue
+
+                teams = re.split(r"\s+vs\.?\s+", fixture, flags=re.I)
+                if len(teams) != 2:
+                    continue
+                home, away = [t.strip() for t in teams]
+
+                channels = [a.get("title") or a.get_text(strip=True)
+                            for a in row.select("div.schedule__channels a")]
+                if not channels:
+                    channels = ["Not specified"]
+
+                # Skip fake "Extra Stream" only matches
+                if all("extra stream" in ch.lower() for ch in channels):
+                    continue
+
+                key = (home.lower(), away.lower(), comp.lower())
+                if key in seen:
+                    continue
+                seen.add(key)
+
+                kickoff = html_time_to_gmt3(time_raw, base_date)
+                matches.append({
+                    "home": home,
+                    "away": away,
+                    "competition": comp,
+                    "kickoff": kickoff,
+                    "channels": channels
+                })
+
+        logger.info(f"✅ DaddyLive (dlhd.dad): {len(matches)} matches (filtered & clean)")
+
     except Exception as e:
-        logger.error(f"Error fetching DaddyLive: {e}")
-    return matches
+        logger.error(f"❌ Error scraping DaddyLive: {e}")
 
+    return matches
 # ---------- ALLFOOTBALL ----------
 def fetch_allfootball_matches():
     logger.info("🌍 Fetching matches from AllFootball...")
