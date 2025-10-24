@@ -24,8 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pytz rapidfuzz cloudscraper
-
+          pip install requests beautifulsoup4 pytz rapidfuzz cloudscraper lxml html5lib pycurl
       - name: Run script
         run: |
           python matches.py
